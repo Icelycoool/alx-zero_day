@@ -1,1 +1,1 @@
-My first readme
+Hola! Welcome to School
